@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="title_activity_setup">SetupActivity</string>
+    <string name="button_txt">Let\'s get started shall we?</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="flash_button">Toggle Flash</string>
+    <string name="recording_button">Start Recording</string>
+
+</resources>
