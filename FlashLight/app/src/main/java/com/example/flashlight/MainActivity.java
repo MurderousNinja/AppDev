@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                         String cameraID = cameraManager.getCameraIdList()[0];
                         cameraManager.setTorchMode(cameraID,true);
                         state = true;
-                        imageButton.setImageResource(R.drawable.flash_on);
+                        imageButton.setImageResource(R.drawable.baseline_flashlight_on_24);
                     }
                     catch (CameraAccessException e){
 
@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
                         String cameraID = cameraManager.getCameraIdList()[0];
                         cameraManager.setTorchMode(cameraID,false);
                         state = false;
-                        imageButton.setImageResource(R.drawable.flash_off);
+                        imageButton.setImageResource(R.drawable.baseline_flashlight_off_24);
                     }
                     catch (CameraAccessException e){
 
