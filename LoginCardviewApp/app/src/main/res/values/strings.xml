@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login Cardview App</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="remember_me">Remember Me?</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="please_login_with_your_information">Please Login with your information:</string>
+    <string name="email_address">Email Address:</string>
+    <string name="logo">Logo</string>
+    <string name="email_address_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="password">Password:</string>
+    <string name="or_sign_up">Or, Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+</resources>

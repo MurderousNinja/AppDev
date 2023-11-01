@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="header_text">Log In Text</string>
+    <string name="sign_in">Log In</string>
+    <string name="username">User ID</string>
+    <string name="username_textbox">Username TextBox</string>
+    <string name="businessID">Business ID</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="business_password">Business Password</string>
+</resources>

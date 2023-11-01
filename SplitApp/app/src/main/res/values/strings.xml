@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Split App</string>
+    <string name="left_button">Shrink Left Half</string>
+    <string name="right_button">Shrink Right Half</string>
+</resources>
